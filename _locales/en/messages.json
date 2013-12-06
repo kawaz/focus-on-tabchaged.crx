@@ -1,0 +1,9 @@
+{ "extName":
+  { "message": "focus on tabchanged"
+  , "description": "extension name"
+  }
+, "extDescription":
+  { "message": "focus search input on tab changed. for google, rakuten, etc..."
+  , "description": "extension description"
+  }
+}

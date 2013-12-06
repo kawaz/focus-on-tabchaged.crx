@@ -1,0 +1,9 @@
+{ "extName":
+  { "message": "focus on tabchanged"
+  , "description": "extension name"
+  }
+, "extDescription":
+  { "message": "Googleや楽天ブックスの検索ページにタブ移動で戻ってきたら、すぐにキーワード入力できるよう検索ワード入力欄にフォーカスします。"
+  , "description": "extension description"
+  }
+}
